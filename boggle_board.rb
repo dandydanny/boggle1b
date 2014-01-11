@@ -28,7 +28,6 @@ class BoggleBoard
     # letter_array = Array.new(4) {letters.sample(4)}
     # p letter_array
 
-
     @initial_grid = Array.new
 
     @letters.each do |x|
